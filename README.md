@@ -1,9 +1,30 @@
-# Test
+test
+HAHAHA very courier new space x will launch the new falcon tonight 
 
-Ik ben de Tony Chocoloni vergeten.
+Deze is wel aangepast nu 
 
-Echt waar
+Dit is aangepast met wordpad
 
-Dit is extra informatie over bananen.
 
-Banaan
+       /\       
+      /  \      
+     /,--.\     
+    /< () >\    
+   /  `--'  \   
+  /          \  
+ /   fnord?   \ 
+/______________\git-bootcamp-naar4
+
+
+
+                                          `-.`'.-'
+                                       `-.        .-'.
+                                    `-.    -./\.-    .-'
+                                        -.  /_|\  .-
+                                    `-.   `/____\'   .-'.
+                                 `-.    -./.-""-.\.-      '
+                                    `-.  /< (()) >\  .-'
+                                  -   .`/__`-..-'__\'   .-
+                                ,...`-./___|____|___\.-'.,.
+                                   ,-'   ,` . . ',   `-,
+                                ,-'   ________________  `-,
